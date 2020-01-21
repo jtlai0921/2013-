@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\Runner\bin\Debug\Runner.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\Runner\bin\Debug\Runner.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\Runner\bin\Debug\Runner.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\Runner\obj\Debug\Runner.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\Runner\obj\Debug\Runner.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\Runner\obj\Debug\Runner.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\Runner\obj\Debug\Runner.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\Runner\obj\Debug\Runner.pdb

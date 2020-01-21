@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\Song\bin\Debug\Song.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\Song\bin\Debug\Song.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\Song\bin\Debug\Song.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\Song\obj\Debug\Song.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\Song\obj\Debug\Song.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\Song\obj\Debug\Song.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\Song\obj\Debug\Song.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\Song\obj\Debug\Song.pdb

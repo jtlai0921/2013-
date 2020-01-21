@@ -1,0 +1,25 @@
+C:\cs2008\ch02\constTest\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch02\constTest\obj\Debug\constTest.Form1.resources
+C:\cs2008\ch02\constTest\obj\Debug\constTest.Properties.Resources.resources
+C:\cs2008\ch02\constTest\obj\Debug\constTest.csproj.GenerateResource.Cache
+C:\cs2008\ch02\constTest\bin\Debug\constTest.exe
+C:\cs2008\ch02\constTest\bin\Debug\constTest.pdb
+C:\cs2008\ch02\constTest\obj\Debug\constTest.exe
+C:\cs2008\ch02\constTest\obj\Debug\constTest.pdb
+C:\cs2010\ch02\constTest\obj\Debug\constTest.exe
+C:\cs2010\ch02\constTest\obj\Debug\constTest.pdb
+C:\cs2010\ch02\constTest\bin\Debug\constTest.exe
+C:\cs2010\ch02\constTest\bin\Debug\constTest.pdb
+C:\cs2010\ch02\constTest\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch02\constTest\obj\Debug\constTest.Form1.resources
+C:\cs2010\ch02\constTest\obj\Debug\constTest.Properties.Resources.resources
+C:\cs2010\ch02\constTest\obj\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch02\constTest\obj\Debug\GenerateResource.write.1.tlog
+D:\000000-碁峯-C# 2013基礎必修課完稿 PDF 範例&習題(2012&2013) 1205\2013 範例程式\ch02\constTest\obj\Debug\constTest.exe
+D:\000000-碁峯-C# 2013基礎必修課完稿 PDF 範例&習題(2012&2013) 1205\2013 範例程式\ch02\constTest\obj\Debug\constTest.pdb
+D:\000000-碁峯-C# 2013基礎必修課完稿 PDF 範例&習題(2012&2013) 1205\2013 範例程式\ch02\constTest\bin\Debug\constTest.exe
+D:\000000-碁峯-C# 2013基礎必修課完稿 PDF 範例&習題(2012&2013) 1205\2013 範例程式\ch02\constTest\bin\Debug\constTest.pdb
+D:\000000-碁峯-C# 2013基礎必修課完稿 PDF 範例&習題(2012&2013) 1205\2013 範例程式\ch02\constTest\obj\Debug\constTest.csprojResolveAssemblyReference.cache
+D:\000000-碁峯-C# 2013基礎必修課完稿 PDF 範例&習題(2012&2013) 1205\2013 範例程式\ch02\constTest\obj\Debug\constTest.Form1.resources
+D:\000000-碁峯-C# 2013基礎必修課完稿 PDF 範例&習題(2012&2013) 1205\2013 範例程式\ch02\constTest\obj\Debug\constTest.Properties.Resources.resources
+D:\000000-碁峯-C# 2013基礎必修課完稿 PDF 範例&習題(2012&2013) 1205\2013 範例程式\ch02\constTest\obj\Debug\constTest.csproj.GenerateResource.Cache

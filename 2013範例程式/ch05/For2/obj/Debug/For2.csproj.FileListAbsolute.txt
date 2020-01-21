@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\For2\bin\Debug\For2.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\For2\bin\Debug\For2.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\For2\bin\Debug\For2.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\For2\obj\Debug\For2.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\For2\obj\Debug\For2.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\For2\obj\Debug\For2.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\For2\obj\Debug\For2.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\For2\obj\Debug\For2.pdb

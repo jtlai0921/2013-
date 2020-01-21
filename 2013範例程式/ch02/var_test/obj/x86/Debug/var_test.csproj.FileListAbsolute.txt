@@ -1,0 +1,25 @@
+C:\cs2010\ch02\var_test\bin\Debug\var_test.exe
+C:\cs2010\ch02\var_test\bin\Debug\var_test.pdb
+C:\cs2010\ch02\var_test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch02\var_test\obj\x86\Debug\var_test.Form1.resources
+C:\cs2010\ch02\var_test\obj\x86\Debug\var_test.Properties.Resources.resources
+C:\cs2010\ch02\var_test\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch02\var_test\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch02\var_test\obj\x86\Debug\var_test.exe
+C:\cs2010\ch02\var_test\obj\x86\Debug\var_test.pdb
+D:\00000- 碁峯 Visual C# 2013 基礎必修課  排版 Working\五校稿-Final 1125\範例程式\ch02\var_test\obj\x86\Debug\var_test.exe
+D:\00000- 碁峯 Visual C# 2013 基礎必修課  排版 Working\五校稿-Final 1125\範例程式\ch02\var_test\obj\x86\Debug\var_test.pdb
+D:\00000- 碁峯 Visual C# 2013 基礎必修課  排版 Working\五校稿-Final 1125\範例程式\ch02\var_test\bin\Debug\var_test.exe
+D:\00000- 碁峯 Visual C# 2013 基礎必修課  排版 Working\五校稿-Final 1125\範例程式\ch02\var_test\bin\Debug\var_test.pdb
+D:\00000- 碁峯 Visual C# 2013 基礎必修課  排版 Working\五校稿-Final 1125\範例程式\ch02\var_test\obj\x86\Debug\var_test.csprojResolveAssemblyReference.cache
+D:\00000- 碁峯 Visual C# 2013 基礎必修課  排版 Working\五校稿-Final 1125\範例程式\ch02\var_test\obj\x86\Debug\var_test.Form1.resources
+D:\00000- 碁峯 Visual C# 2013 基礎必修課  排版 Working\五校稿-Final 1125\範例程式\ch02\var_test\obj\x86\Debug\var_test.Properties.Resources.resources
+D:\00000- 碁峯 Visual C# 2013 基礎必修課  排版 Working\五校稿-Final 1125\範例程式\ch02\var_test\obj\x86\Debug\var_test.csproj.GenerateResource.Cache
+D:\000000-碁峯-C# 2013基礎必修課完稿 PDF 範例&習題(2012&2013) 1205\2013 範例程式\ch02\var_test\obj\x86\Debug\var_test.exe
+D:\000000-碁峯-C# 2013基礎必修課完稿 PDF 範例&習題(2012&2013) 1205\2013 範例程式\ch02\var_test\obj\x86\Debug\var_test.pdb
+D:\000000-碁峯-C# 2013基礎必修課完稿 PDF 範例&習題(2012&2013) 1205\2013 範例程式\ch02\var_test\bin\Debug\var_test.exe
+D:\000000-碁峯-C# 2013基礎必修課完稿 PDF 範例&習題(2012&2013) 1205\2013 範例程式\ch02\var_test\bin\Debug\var_test.pdb
+D:\000000-碁峯-C# 2013基礎必修課完稿 PDF 範例&習題(2012&2013) 1205\2013 範例程式\ch02\var_test\obj\x86\Debug\var_test.csprojResolveAssemblyReference.cache
+D:\000000-碁峯-C# 2013基礎必修課完稿 PDF 範例&習題(2012&2013) 1205\2013 範例程式\ch02\var_test\obj\x86\Debug\var_test.Form1.resources
+D:\000000-碁峯-C# 2013基礎必修課完稿 PDF 範例&習題(2012&2013) 1205\2013 範例程式\ch02\var_test\obj\x86\Debug\var_test.Properties.Resources.resources
+D:\000000-碁峯-C# 2013基礎必修課完稿 PDF 範例&習題(2012&2013) 1205\2013 範例程式\ch02\var_test\obj\x86\Debug\var_test.csproj.GenerateResource.Cache

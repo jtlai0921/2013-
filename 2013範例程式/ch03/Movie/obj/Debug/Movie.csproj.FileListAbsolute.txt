@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Movie\bin\Debug\Movie.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Movie\bin\Debug\Movie.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Movie\bin\Debug\Movie.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Movie\obj\Debug\Movie.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Movie\obj\Debug\Movie.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Movie\obj\Debug\Movie.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Movie\obj\Debug\Movie.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Movie\obj\Debug\Movie.pdb

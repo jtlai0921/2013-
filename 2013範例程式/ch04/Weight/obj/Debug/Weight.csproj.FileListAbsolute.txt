@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Weight\bin\Debug\Weight.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Weight\bin\Debug\Weight.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Weight\bin\Debug\Weight.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Weight\obj\Debug\Weight.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Weight\obj\Debug\Weight.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Weight\obj\Debug\Weight.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Weight\obj\Debug\Weight.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Weight\obj\Debug\Weight.pdb

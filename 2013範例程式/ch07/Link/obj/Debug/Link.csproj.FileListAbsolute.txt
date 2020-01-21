@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Link\bin\Debug\Link.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Link\bin\Debug\Link.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Link\bin\Debug\Link.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Link\obj\Debug\Link.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Link\obj\Debug\Link.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Link\obj\Debug\Link.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Link\obj\Debug\Link.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Link\obj\Debug\Link.pdb

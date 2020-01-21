@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Min\bin\Debug\Min.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Min\bin\Debug\Min.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Min\bin\Debug\Min.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Min\obj\Debug\Min.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Min\obj\Debug\Min.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Min\obj\Debug\Min.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Min\obj\Debug\Min.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Min\obj\Debug\Min.pdb

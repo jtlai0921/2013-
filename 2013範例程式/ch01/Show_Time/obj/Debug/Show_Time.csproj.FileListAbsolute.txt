@@ -1,0 +1,9 @@
+C:\cs2013\ch01\Show_Time\bin\Debug\Show_Time.exe.config
+C:\cs2013\ch01\Show_Time\bin\Debug\Show_Time.exe
+C:\cs2013\ch01\Show_Time\bin\Debug\Show_Time.pdb
+C:\cs2013\ch01\Show_Time\obj\Debug\Show_Time.csprojResolveAssemblyReference.cache
+C:\cs2013\ch01\Show_Time\obj\Debug\Show_Time.Form1.resources
+C:\cs2013\ch01\Show_Time\obj\Debug\Show_Time.Properties.Resources.resources
+C:\cs2013\ch01\Show_Time\obj\Debug\Show_Time.csproj.GenerateResource.Cache
+C:\cs2013\ch01\Show_Time\obj\Debug\Show_Time.exe
+C:\cs2013\ch01\Show_Time\obj\Debug\Show_Time.pdb

@@ -1,0 +1,10 @@
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例(2013)\MultiForm_3\bin\Debug\MultiForm_4.exe.config
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例(2013)\MultiForm_3\bin\Debug\MultiForm_4.exe
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例(2013)\MultiForm_3\bin\Debug\MultiForm_4.pdb
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例(2013)\MultiForm_3\obj\Debug\MultiForm_3.csprojResolveAssemblyReference.cache
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例(2013)\MultiForm_3\obj\Debug\MultiForm_4.frmCal.resources
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例(2013)\MultiForm_3\obj\Debug\MultiForm_4.frmMain.resources
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例(2013)\MultiForm_3\obj\Debug\MultiForm_4.Properties.Resources.resources
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例(2013)\MultiForm_3\obj\Debug\MultiForm_3.csproj.GenerateResource.Cache
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例(2013)\MultiForm_3\obj\Debug\MultiForm_4.exe
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例(2013)\MultiForm_3\obj\Debug\MultiForm_4.pdb

@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\ScrollPic\bin\Debug\ScrollPic.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\ScrollPic\bin\Debug\ScrollPic.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\ScrollPic\bin\Debug\ScrollPic.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\ScrollPic\obj\Debug\ScrollPic.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\ScrollPic\obj\Debug\ScrollPic.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\ScrollPic\obj\Debug\ScrollPic.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\ScrollPic\obj\Debug\ScrollPic.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\ScrollPic\obj\Debug\ScrollPic.pdb

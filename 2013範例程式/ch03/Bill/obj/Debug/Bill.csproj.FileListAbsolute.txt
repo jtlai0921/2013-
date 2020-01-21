@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Bill\bin\Debug\Bill.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Bill\bin\Debug\Bill.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Bill\bin\Debug\Bill.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Bill\obj\Debug\Bill.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Bill\obj\Debug\Bill.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Bill\obj\Debug\Bill.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Bill\obj\Debug\Bill.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Bill\obj\Debug\Bill.pdb

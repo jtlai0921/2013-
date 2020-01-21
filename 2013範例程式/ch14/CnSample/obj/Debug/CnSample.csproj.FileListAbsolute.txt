@@ -1,0 +1,9 @@
+C:\cs2013\ch14\CnSample\bin\Debug\CnSample.exe.config
+C:\cs2013\ch14\CnSample\bin\Debug\CnSample.exe
+C:\cs2013\ch14\CnSample\bin\Debug\CnSample.pdb
+C:\cs2013\ch14\CnSample\obj\Debug\CnSample.csprojResolveAssemblyReference.cache
+C:\cs2013\ch14\CnSample\obj\Debug\CnSample.Form1.resources
+C:\cs2013\ch14\CnSample\obj\Debug\CnSample.Properties.Resources.resources
+C:\cs2013\ch14\CnSample\obj\Debug\CnSample.csproj.GenerateResource.Cache
+C:\cs2013\ch14\CnSample\obj\Debug\CnSample.exe
+C:\cs2013\ch14\CnSample\obj\Debug\CnSample.pdb

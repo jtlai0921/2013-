@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch09\vsexpress2013\ch09範例\KeyPress1\bin\Debug\KeyPress1.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch09\vsexpress2013\ch09範例\KeyPress1\bin\Debug\KeyPress1.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch09\vsexpress2013\ch09範例\KeyPress1\bin\Debug\KeyPress1.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch09\vsexpress2013\ch09範例\KeyPress1\obj\Debug\KeyPress1.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch09\vsexpress2013\ch09範例\KeyPress1\obj\Debug\KeyPress1.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch09\vsexpress2013\ch09範例\KeyPress1\obj\Debug\KeyPress1.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch09\vsexpress2013\ch09範例\KeyPress1\obj\Debug\KeyPress1.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch09\vsexpress2013\ch09範例\KeyPress1\obj\Debug\KeyPress1.pdb

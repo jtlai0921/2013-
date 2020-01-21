@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Order\bin\Debug\Order.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Order\obj\Debug\Order.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Order\obj\Debug\Order.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Order\obj\Debug\Order.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Order\bin\Debug\Order.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Order\bin\Debug\Order.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Order\obj\Debug\Order.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Order\obj\Debug\Order.pdb

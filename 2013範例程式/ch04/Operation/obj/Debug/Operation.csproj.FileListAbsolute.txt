@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Operation\bin\Debug\Operation.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Operation\bin\Debug\Operation.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Operation\bin\Debug\Operation.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Operation\obj\Debug\Operation.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Operation\obj\Debug\Operation.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Operation\obj\Debug\Operation.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Operation\obj\Debug\Operation.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Operation\obj\Debug\Operation.pdb

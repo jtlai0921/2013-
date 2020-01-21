@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\TryDemo\bin\Debug\TryDemo.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\TryDemo\bin\Debug\TryDemo.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\TryDemo\bin\Debug\TryDemo.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\TryDemo\obj\Debug\TryDemo.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\TryDemo\obj\Debug\TryDemo.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\TryDemo\obj\Debug\TryDemo.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\TryDemo\obj\Debug\TryDemo.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\TryDemo\obj\Debug\TryDemo.pdb

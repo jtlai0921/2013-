@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\IndexOf\bin\Debug\IndexOf.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\IndexOf\bin\Debug\IndexOf.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\IndexOf\bin\Debug\IndexOf.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\IndexOf\obj\Debug\IndexOf.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\IndexOf\obj\Debug\IndexOf.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\IndexOf\obj\Debug\IndexOf.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\IndexOf\obj\Debug\IndexOf.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\IndexOf\obj\Debug\IndexOf.pdb

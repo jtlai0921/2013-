@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\PassAry\bin\Debug\PassAry.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\PassAry\bin\Debug\PassAry.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\PassAry\bin\Debug\PassAry.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\PassAry\obj\Debug\PassAry.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\PassAry\obj\Debug\PassAry.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\PassAry\obj\Debug\PassAry.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\PassAry\obj\Debug\PassAry.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\PassAry\obj\Debug\PassAry.pdb

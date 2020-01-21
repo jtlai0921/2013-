@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Rnd2\bin\Debug\Rnd2.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Rnd2\bin\Debug\Rnd2.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Rnd2\bin\Debug\Rnd2.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Rnd2\obj\Debug\Rnd2.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Rnd2\obj\Debug\Rnd2.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Rnd2\obj\Debug\Rnd2.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Rnd2\obj\Debug\Rnd2.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Rnd2\obj\Debug\Rnd2.pdb

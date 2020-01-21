@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch09\vsexpress2013\ch09範例\Touch\bin\Debug\Touch.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch09\vsexpress2013\ch09範例\Touch\bin\Debug\Touch.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch09\vsexpress2013\ch09範例\Touch\bin\Debug\Touch.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch09\vsexpress2013\ch09範例\Touch\obj\Debug\Touch.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch09\vsexpress2013\ch09範例\Touch\obj\Debug\Touch.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch09\vsexpress2013\ch09範例\Touch\obj\Debug\Touch.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch09\vsexpress2013\ch09範例\Touch\obj\Debug\Touch.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch09\vsexpress2013\ch09範例\Touch\obj\Debug\Touch.pdb

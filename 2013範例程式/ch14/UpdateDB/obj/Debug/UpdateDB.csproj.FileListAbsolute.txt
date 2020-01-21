@@ -1,0 +1,11 @@
+C:\cs2013\ch14\UpdateDB\bin\Debug\UpdateDB.exe.config
+C:\cs2013\ch14\UpdateDB\bin\Debug\MyDB.mdf
+C:\cs2013\ch14\UpdateDB\bin\Debug\MyDB_log.ldf
+C:\cs2013\ch14\UpdateDB\bin\Debug\UpdateDB.exe
+C:\cs2013\ch14\UpdateDB\bin\Debug\UpdateDB.pdb
+C:\cs2013\ch14\UpdateDB\obj\Debug\UpdateDB.csprojResolveAssemblyReference.cache
+C:\cs2013\ch14\UpdateDB\obj\Debug\UpdateDB.Form1.resources
+C:\cs2013\ch14\UpdateDB\obj\Debug\UpdateDB.Properties.Resources.resources
+C:\cs2013\ch14\UpdateDB\obj\Debug\UpdateDB.csproj.GenerateResource.Cache
+C:\cs2013\ch14\UpdateDB\obj\Debug\UpdateDB.exe
+C:\cs2013\ch14\UpdateDB\obj\Debug\UpdateDB.pdb

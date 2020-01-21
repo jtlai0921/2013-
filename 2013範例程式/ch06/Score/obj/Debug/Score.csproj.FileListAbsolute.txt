@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\Score\bin\Debug\Score.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\Score\bin\Debug\Score.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\Score\bin\Debug\Score.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\Score\obj\Debug\Score.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\Score\obj\Debug\Score.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\Score\obj\Debug\Score.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\Score\obj\Debug\Score.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\Score\obj\Debug\Score.pdb

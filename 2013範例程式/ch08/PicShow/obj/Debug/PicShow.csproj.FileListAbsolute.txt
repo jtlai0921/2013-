@@ -1,0 +1,9 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\PicShow\bin\Debug\PicShow.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\PicShow\bin\Debug\PicShow.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\PicShow\bin\Debug\PicShow.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\PicShow\obj\Debug\PicShow.csprojResolveAssemblyReference.cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\PicShow\obj\Debug\PicShow.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\PicShow\obj\Debug\PicShow.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\PicShow\obj\Debug\PicShow.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\PicShow\obj\Debug\PicShow.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\PicShow\obj\Debug\PicShow.pdb

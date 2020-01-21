@@ -1,0 +1,9 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\PcDiy\bin\Debug\PcDiy.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\PcDiy\bin\Debug\PcDiy.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\PcDiy\bin\Debug\PcDiy.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\PcDiy\obj\Debug\PcDiy.csprojResolveAssemblyReference.cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\PcDiy\obj\Debug\PcDiy.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\PcDiy\obj\Debug\PcDiy.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\PcDiy\obj\Debug\PcDiy.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\PcDiy\obj\Debug\PcDiy.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\PcDiy\obj\Debug\PcDiy.pdb

@@ -1,0 +1,11 @@
+C:\cs2013\ch14\CreateDB\bin\Debug\CreateDB.exe.config
+C:\cs2013\ch14\CreateDB\bin\Debug\MyDB.mdf
+C:\cs2013\ch14\CreateDB\bin\Debug\MyDB_log.ldf
+C:\cs2013\ch14\CreateDB\bin\Debug\CreateDB.exe
+C:\cs2013\ch14\CreateDB\bin\Debug\CreateDB.pdb
+C:\cs2013\ch14\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+C:\cs2013\ch14\CreateDB\obj\Debug\CreateDB.Form1.resources
+C:\cs2013\ch14\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+C:\cs2013\ch14\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+C:\cs2013\ch14\CreateDB\obj\Debug\CreateDB.exe
+C:\cs2013\ch14\CreateDB\obj\Debug\CreateDB.pdb

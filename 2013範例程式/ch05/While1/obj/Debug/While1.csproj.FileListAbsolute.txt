@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\While1\bin\Debug\While1.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\While1\bin\Debug\While1.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\While1\bin\Debug\While1.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\While1\obj\Debug\While1.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\While1\obj\Debug\While1.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\While1\obj\Debug\While1.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\While1\obj\Debug\While1.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch05\vsexpress2013\ch05範例\While1\obj\Debug\While1.pdb

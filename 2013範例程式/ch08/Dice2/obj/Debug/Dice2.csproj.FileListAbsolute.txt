@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Dice2\bin\Debug\Dice2.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Dice2\bin\Debug\Dice2.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Dice2\bin\Debug\Dice2.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Dice2\obj\Debug\Dice2.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Dice2\obj\Debug\Dice2.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Dice2\obj\Debug\Dice2.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Dice2\obj\Debug\Dice2.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch08\vsexpress2013\ch08範例\Dice2\obj\Debug\Dice2.pdb

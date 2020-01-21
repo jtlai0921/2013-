@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\EventTest\bin\Debug\EventTest.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\EventTest\bin\Debug\EventTest.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\EventTest\bin\Debug\EventTest.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\EventTest\obj\Debug\EventTest.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\EventTest\obj\Debug\EventTest.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\EventTest\obj\Debug\EventTest.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\EventTest\obj\Debug\EventTest.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\EventTest\obj\Debug\EventTest.pdb

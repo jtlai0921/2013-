@@ -1,0 +1,12 @@
+C:\cs2013\ch01\First\bin\Debug\First.exe.config
+C:\cs2013\ch01\First\obj\Debug\First.csprojResolveAssemblyReference.cache
+C:\cs2013\ch01\First\obj\Debug\First.Form1.resources
+C:\cs2013\ch01\First\obj\Debug\First.Properties.Resources.resources
+C:\cs2013\ch01\First\obj\Debug\First.csproj.GenerateResource.Cache
+C:\cs2013\ch01\First\bin\Debug\First.exe
+C:\cs2013\ch01\First\bin\Debug\First.pdb
+C:\cs2013\ch01\First\obj\Debug\First.exe
+C:\cs2013\ch01\First\obj\Debug\First.pdb
+D:\00000- 碁峯 Visual C# 2013 基礎必修課  排版 Working\C#五校稿-Final 1125\2013 範例程式\ch01\First\bin\Debug\First.exe.config
+D:\00000- 碁峯 Visual C# 2013 基礎必修課  排版 Working\C#五校稿-Final 1125\2013 範例程式\ch01\First\obj\Debug\First.exe
+D:\00000- 碁峯 Visual C# 2013 基礎必修課  排版 Working\C#五校稿-Final 1125\2013 範例程式\ch01\First\obj\Debug\First.pdb

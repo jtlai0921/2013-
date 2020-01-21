@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Off\bin\Debug\Off.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Off\bin\Debug\Off.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Off\bin\Debug\Off.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Off\obj\Debug\Off.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Off\obj\Debug\Off.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Off\obj\Debug\Off.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Off\obj\Debug\Off.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\Off\obj\Debug\Off.pdb

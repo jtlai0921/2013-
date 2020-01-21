@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Vocation\bin\Debug\Vocation.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Vocation\bin\Debug\Vocation.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Vocation\bin\Debug\Vocation.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Vocation\obj\Debug\Vocation.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Vocation\obj\Debug\Vocation.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Vocation\obj\Debug\Vocation.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Vocation\obj\Debug\Vocation.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch07\vsexpress2013\ch07範例\Vocation\obj\Debug\Vocation.pdb

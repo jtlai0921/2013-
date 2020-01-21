@@ -1,0 +1,14 @@
+C:\cs2013\ch15\產品管理\bin\Debug\產品管理.exe.config
+C:\cs2013\ch15\產品管理\bin\Debug\Database1.mdf
+C:\cs2013\ch15\產品管理\bin\Debug\Database1_log.ldf
+C:\cs2013\ch15\產品管理\bin\Debug\產品管理.exe
+C:\cs2013\ch15\產品管理\bin\Debug\產品管理.pdb
+C:\cs2013\ch15\產品管理\obj\Debug\產品管理.csprojResolveAssemblyReference.cache
+C:\cs2013\ch15\產品管理\obj\Debug\產品管理.frmCategory.resources
+C:\cs2013\ch15\產品管理\obj\Debug\產品管理.frmMain.resources
+C:\cs2013\ch15\產品管理\obj\Debug\產品管理.Properties.Resources.resources
+C:\cs2013\ch15\產品管理\obj\Debug\產品管理.csproj.GenerateResource.Cache
+C:\cs2013\ch15\產品管理\obj\Debug\產品管理.exe
+C:\cs2013\ch15\產品管理\obj\Debug\產品管理.pdb
+C:\cs2013\ch15\產品管理\obj\Debug\產品管理.frmProduct.resources
+C:\cs2013\ch15\產品管理\obj\Debug\產品管理.frmRelation.resources

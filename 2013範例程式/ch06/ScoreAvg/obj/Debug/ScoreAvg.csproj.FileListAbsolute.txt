@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\ScoreAvg\bin\Debug\ScoreAvg.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\ScoreAvg\bin\Debug\ScoreAvg.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\ScoreAvg\bin\Debug\ScoreAvg.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\ScoreAvg\obj\Debug\ScoreAvg.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\ScoreAvg\obj\Debug\ScoreAvg.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\ScoreAvg\obj\Debug\ScoreAvg.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\ScoreAvg\obj\Debug\ScoreAvg.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch06\vsexpress2013\ch06範例\ScoreAvg\obj\Debug\ScoreAvg.pdb

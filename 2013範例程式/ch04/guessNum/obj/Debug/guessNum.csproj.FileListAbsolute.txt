@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\guessNum\bin\Debug\guessNum.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\guessNum\bin\Debug\guessNum.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\guessNum\bin\Debug\guessNum.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\guessNum\obj\Debug\guessNum.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\guessNum\obj\Debug\guessNum.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\guessNum\obj\Debug\guessNum.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\guessNum\obj\Debug\guessNum.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\vsexpress2013\ch04範例\guessNum\obj\Debug\guessNum.pdb

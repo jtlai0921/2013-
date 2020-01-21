@@ -1,0 +1,9 @@
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Area\bin\Debug\Area.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Area\obj\Debug\Area.csprojResolveAssemblyReference.cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Area\obj\Debug\Area.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Area\obj\Debug\Area.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Area\obj\Debug\Area.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Area\bin\Debug\Area.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Area\bin\Debug\Area.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Area\obj\Debug\Area.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\vsexpress2013\ch03範例\Area\obj\Debug\Area.pdb
